@@ -9,3 +9,4 @@ tqdm
 lmdb
 tensorflow
 tensorboardX
+Streamlit
