@@ -1,4 +1,4 @@
-# SNAPCHEF
+# SNAPCHEF - WHY DONT YOU TRY IT WHATS STOPPING YOU!
 <p align="center">
   <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/a6b82710-bb5a-4528-919a-9b1503c3cb83" alt="SnapChef">
 </p>
