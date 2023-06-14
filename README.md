@@ -12,13 +12,13 @@ Capture, Cook, Create! Recipe Generation from Food Images turns your food photos
   <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/b0ce59ba-0462-4820-b5c2-24ce1e445e45" alt="Recipe Generation">
 </p>
 
-## Model
+## Download the  Model
 
 The recipe generation model can be downloaded from the following link:
 
-- [Download Model](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
+### [Download Model](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
+ Please download the model and place it in  DATA FOLDER directory within the project.
 
-Please download the model and place it in the appropriate directory before running the application.
 
 ## Prerequisites
 
@@ -59,11 +59,6 @@ cd src
 ```
 pip install -r requirements.txt
 ```
-
-# Download the model
-### [Download Model](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
- Please download the model and place it in the appropriate directory within the project.
-
 ## Usage
 To run the application, execute the following command:
 ```
