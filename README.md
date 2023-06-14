@@ -79,8 +79,10 @@ The application will start and can be accessed in your browser at http://localho
 
 # Support!
 If you found this project helpful or you learned something from it and want to show your appreciation, you can buy me a coffee. Your support will help me to continue maintaining and updating this project.
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/TABREZx96)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabrez-sayed-b661641b8/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tabrez78546@gmail.com)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/TABREZx96"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
+  <a href="https://www.linkedin.com/in/tabrez-sayed-b661641b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tabrez78546@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 
