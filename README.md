@@ -43,8 +43,9 @@ pip install -r requirements.txt
 
 Follow these steps to clone and set up the project:
 # Clone the repository
+```
 git clone (https://github.com/TABREZ-96/SnapChef.git)
-
+```
 # Navigate to the project directory
 ```
 cd src
@@ -56,8 +57,8 @@ pip install -r requirements.txt
 ```
 
 # Download the model
-# [Download Model](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
-# Please download the model and place it in the appropriate directory within the project.
+### [Download Model](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
+ Please download the model and place it in the appropriate directory within the project.
 
 # Usage
 To run the application, execute the following command:
