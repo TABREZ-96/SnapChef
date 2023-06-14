@@ -1,12 +1,16 @@
 # SNAPCHEF
-![f](https://github.com/TABREZ-96/SnapChef/assets/114156392/a6b82710-bb5a-4528-919a-9b1503c3cb83)
+<p align="center">
+  <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/a6b82710-bb5a-4528-919a-9b1503c3cb83" alt="SnapChef">
+</p>
 
-A deep learning project that generates recipes from food images using the power of computer vision and natural language processing. The project utilizes the Streamlit framework for the frontend and several Python libraries for image processing, deep learning, and text generation.
+SnapChef is a deep learning project that generates recipes from food images using the power of computer vision and natural language processing. The project utilizes the Streamlit framework for the frontend and several Python libraries for image processing, deep learning, and text generation.
 Capture, Cook, Create! Recipe Generation from Food Images turns your food photos into personalized recipes. Snap a pic, let our advanced algorithms analyze it, and voila! Get ready to unlock a world of culinary possibilities with a single click. Unleash your inner chef and indulge in a delightful gastronomic adventure like never before!
 
-## Demo
+## OUTCOME 
 
-A live demo of the recipe generation application can be accessed [here](https://your-demo-url.com).
+<p align="center">
+  <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/b0ce59ba-0462-4820-b5c2-24ce1e445e45" alt="Recipe Generation">
+</p>
 
 ## Model
 
