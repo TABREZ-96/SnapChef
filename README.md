@@ -72,8 +72,10 @@ streamlit run trail2.py
 The application will start and can be accessed in your browser at http://localhost:8501.
 
 # Results 
-![r22](https://github.com/TABREZ-96/SnapChef/assets/114156392/bacf4dcd-c8fe-4c8f-bbac-87262fefb00e)
-![c](https://github.com/TABREZ-96/SnapChef/assets/114156392/455f7f2a-d6ea-4bb7-815d-55f79991e8a9)
+<p align="center">
+  <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/bacf4dcd-c8fe-4c8f-bbac-87262fefb00e" alt="Generated Recipes">
+  <img src="https://github.com/TABREZ-96/SnapChef/assets/114156392/455f7f2a-d6ea-4bb7-815d-55f79991e8a9" alt="Cooking">
+</p>
 
 # Support!
 If you found this project helpful or you learned something from it and want to show your appreciation, you can buy me a coffee. Your support will help me to continue maintaining and updating this project.
